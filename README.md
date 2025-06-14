@@ -10,8 +10,8 @@ Projeto de automação de testes para login e cadastro utilizando [Cypress](http
 - [Teste Automatizado de Login](./cypress/e2e/login.cy.js)
 - [Teste Manual de Cadastro](#teste-manual-de-cadastro)
 - [Teste Automatizado de Cadastro](./cypress/e2e/cadastro.cy.js)
-- [Reporte de Bug](#-reporte-de-bug)
-- [Como Testar o Projeto](#-como-testar-o-projeto)
+- [Reporte de Bug](#reporte-de-bug)
+- [Como Testar o Projeto](#como-testar-o-projeto)
 
 ---
 
@@ -115,7 +115,7 @@ Projeto de automação de testes para login e cadastro utilizando [Cypress](http
 - Clicar em **CADASTRAR**
 
 **Resultado Esperado:** Exibir a mensagem “**O campo nome deve ser prenchido corretamente**”  
-**Resultado Obtido:** Não passou. Cadastro foi realizado. [(Bug)](#-reporte-de-bug)
+**Resultado Obtido:** Não passou. Cadastro foi realizado. [(Bug)](#reporte-de-bug)
 
 ---
 
