@@ -109,13 +109,13 @@ Projeto de automação de testes para login e cadastro utilizando [Cypress](http
 **Passos:**
 
 - Acessar a página de cadastro
-- Digitar nome: `` (inválido - espaço)
+- Digitar nome: `` `` (espaço)
 - Digitar email: `mariaO99@gmail.com`
 - Digitar senha: `123456`
 - Clicar em **CADASTRAR**
 
 **Resultado Esperado:** Exibir a mensagem “**O campo nome deve ser prenchido corretamente**”  
-**Resultado Obtido:** Não passou. Cadastro foi realizado. **(BUG)**
+**Resultado Obtido:** Não passou. Cadastro foi realizado. [(Bug)](#-reporte-de-bug)
 
 ---
 
@@ -180,7 +180,7 @@ Ao digitar um nome inválido (ex: espaço), o sistema permite o cadastro normalm
 **Passo a passo:**
 
 1. Acessar a página de cadastro: [https://automationpratice.com.br/register](https://automationpratice.com.br/register)
-2. Preencher o campo **Nome** com o valor: `` (espaço)
+2. Preencher o campo **Nome** com o valor: `` `` (espaço)
 3. Preencher o campo **E-mail** com: `mariaO99@gmail.com`
 4. Preencher o campo **Senha** com: `123456`
 5. Clicar em **CADASTRAR**
