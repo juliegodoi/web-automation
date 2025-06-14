@@ -79,6 +79,8 @@ Projeto de automação de testes para login e cadastro utilizando [Cypress](http
 **Resultado Esperado:** Exibir a mensagem “**E-mail inválido”**  
 **Resultado Obtido:** Passou! Exibiu a mensagem esperada.
 
+🔗 **Código do teste automatizado:** [`login.cy.js`](./cypress/e2e/login.cy.js)
+
 ---
 
 ## Teste Manual de Cadastro
@@ -163,6 +165,8 @@ Projeto de automação de testes para login e cadastro utilizando [Cypress](http
 
 **Resultado Esperado:** Exibir a mensagem “**O campo nome deve ser prenchido**”  
 **Resultado Obtido:** Passou! Exibiu a mensagem esperada.
+
+🔗 **Código do teste automatizado:** [`register.cy.js`](./cypress/e2e/register.cy.js)
 
 ---
 
