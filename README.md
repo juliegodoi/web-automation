@@ -1,6 +1,6 @@
 # Web Automation
 
-Projeto de automação de testes para login e cadastro utilizando [Cypress](https://www.cypress.io/).
+Projeto de automação de testes para login e cadastro utilizando [Cypress](https://www.cypress.io/), realizado no bootcamp QA Turbo do **QAZANDO**.
 
 ---
 
