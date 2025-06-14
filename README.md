@@ -205,7 +205,7 @@ Exibir a mensagem: **“O campo nome deve ser prenchido corretamente”**
 
 1. **Clonar o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/web-automation.git
+git clone https://github.com/juliegodoi/web-automation.git
 cd web-automation
 ```
 
