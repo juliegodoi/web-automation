@@ -195,8 +195,9 @@ Cadastro realizado com sucesso
 Exibir a mensagem: **“O campo nome deve ser prenchido corretamente”**
 
 **Evidências:**  
-![image.png](attachment:01610b2c-7897-43d9-99c6-eda03c8a9348:image.png)  
-![image.png](attachment:4d06e459-926b-4886-afba-a0f5fe3e1658:image.png)
+
+<img src="https://github.com/user-attachments/assets/4b9e54c3-3cca-4a08-8b1e-5d6baf43a8f1" width="600"/>
+<img src="https://github.com/user-attachments/assets/ad103ec4-7919-4da7-abc5-e12ef5edd66e" width="600"/>
 
 ---
 
